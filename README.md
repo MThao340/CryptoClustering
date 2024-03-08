@@ -2,6 +2,8 @@
 
 In this challenge, you’ll use your knowledge of Python and unsupervised learning to predict if cryptocurrencies are affected by 24-hour or 7-day price changes.
 
+code source leveraged includes code learned in course & stackoverflow for error remediation.
+
 Instructions
 
 Prepare the Data
